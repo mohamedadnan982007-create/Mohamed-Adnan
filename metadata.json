@@ -1,0 +1,6 @@
+{
+  "name": "A-Maps",
+  "description": "Advance Maps for Chennai commuters featuring Intent Lenses, a Gemini AI Spatial Search Copilot, and Live Transit Next-Stop Tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
